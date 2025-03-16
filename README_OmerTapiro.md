@@ -16,6 +16,6 @@ The dataset comes from **AdventureWorks2019**, a Microsoft sample database desig
 # 📈 Project Overview  
 This project is structured into three main directories, each representing a different business insight extracted from the AdventureWorks2019 database:
 
-Returning Customers – Analyzes the percentage of returning customers across all regions from 2011 to 2014.
-Sales Performance: Online vs Offline – Compares online vs. offline order volumes and their growth rates from 2011 to 2014.
-Territory Orders Analysis in 2013 – Examines the percentage of total orders per region in 2013 and the relationship between average spending per country and total company orders.
+- Returning Customers – Analyzes the percentage of returning customers across all regions from 2011 to 2014.
+- Sales Performance: Online vs Offline – Compares online vs. offline order volumes and their growth rates from 2011 to 2014.
+- Territory Orders Analysis in 2013 – Examines the percentage of total orders per region in 2013 and the relationship between average spending per country and total company orders.
