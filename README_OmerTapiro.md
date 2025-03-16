@@ -13,9 +13,9 @@ I retrieve data using **SQL** to extract meaningful business insights and visual
 # 📊 Data Source  
 The dataset comes from **AdventureWorks2019**, a Microsoft sample database designed for business analysis.  
 
-## 📈 Project Overview  
-This project follows the **ETL (Extract, Transform, Load)** process:  
+# 📈 Project Overview  
+This project is structured into three main directories, each representing a different business insight extracted from the AdventureWorks2019 database:
 
-1️⃣ **Extract** – Retrieving data from the **AdventureWorks2019** database using **SQL queries**.  
-2️⃣ **Transform** – Cleaning, processing, and modifying the data to extract meaningful insights.  
-3️⃣ **Load** – Using **Python** to visualize and analyze the data through various graphs.  
+Returning Customers – Analyzes the percentage of returning customers across all regions from 2011 to 2014.
+Sales Performance: Online vs Offline – Compares online vs. offline order volumes and their growth rates from 2011 to 2014.
+Territory Orders Analysis in 2013 – Examines the percentage of total orders per region in 2013 and the relationship between average spending per country and total company orders.
