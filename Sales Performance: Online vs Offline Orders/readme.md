@@ -1,4 +1,4 @@
-📌 Online vs. Offline Orders Analysis
+📌 Online vs. Offline Orders Analysis:
 * This analysis compares the number of online and offline orders placed between 2011 and 2014 and evaluates their growth rates.
 
 📊 Key Insights:
